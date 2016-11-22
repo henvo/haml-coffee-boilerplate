@@ -1,2 +1,2 @@
-build/*.html
-build/**/*.js
+.sass-cache
+build
